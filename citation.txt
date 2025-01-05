@@ -1,0 +1,10 @@
+@article{REPO358,
+    author = "Lequyer, Jason and Philip, Reuben and Sharma, Amit and Hsu, Wen-Hsin and Pelletier, Laurence",
+    journal = "Nature Machine Intelligence",
+    number = "11",
+    pages = "953--963",
+    publisher = "Nature Publishing Group UK London",
+    title = "{A fast blind zero-shot denoiser}",
+    volume = "4",
+    year = "2022"
+}
